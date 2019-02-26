@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Entites\President.cs" />
     <Compile Include="Entites\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
