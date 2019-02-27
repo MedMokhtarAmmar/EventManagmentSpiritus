@@ -49,10 +49,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Entites\Event.cs" />
     <Compile Include="Entites\Organizer.cs" />
+    <Compile Include="Entites\Participant.cs" />
     <Compile Include="Entites\President.cs" />
+    <Compile Include="Entites\Recommandation.cs" />
+    <Compile Include="Entites\Report.cs" />
+    <Compile Include="Entites\Tasks.cs" />
+    <Compile Include="Entites\Team.cs" />
     <Compile Include="Entites\Ticket.cs" />
     <Compile Include="Entites\User.cs" />
+    <Compile Include="Entites\WebInterface.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
