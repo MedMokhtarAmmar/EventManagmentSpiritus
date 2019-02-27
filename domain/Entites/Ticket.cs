@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace domain.Entites
 {
-    class Ticket
+   public class Ticket
     {
     }
 }
